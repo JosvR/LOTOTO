@@ -1,5 +1,7 @@
 # LOTOTO — Zeker weten. Veilig werken.
 
+Versie 4.0.0 · 4 november 2026
+
 Nederlandstalige leeromgeving voor operators en monteurs in de procesindustrie.
 De complete website staat in `dist/`. Dit is gewone HTML, CSS en JavaScript;
 er is geen installatie, build, backend of database nodig.
@@ -43,3 +45,5 @@ De naam, afdeling en datum op de tag zijn fictieve voorbeeldgegevens.
 Het is geen foto van een gecertificeerd product of uitvoerbaar isolatieplan.
 De training ondersteunt leren; de lokale installatieprocedure en bevoegdheden
 blijven bepalend voor de uitvoering op de werkplek.
+
+De tag toont als voorbeeld J. de Vries, afdeling Technische Dienst en datum 04-11-2026. De afbeelding staat in `dist/assets/lototo-installatie-tag-v4.webp`.
